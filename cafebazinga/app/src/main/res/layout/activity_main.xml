@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <!-- ************************    vertical  ******************************** -->
+
+
+    <TextView
+        android:id="@+id/preco_total"
+        android:layout_width="247dp"
+        android:layout_height="59dp"
+        android:text="TextView"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="148dp"
+        tools:layout_editor_absoluteY="442dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="397dp"
+        android:layout_height="82dp"
+        android:background="#03A9F4"
+        android:gravity="center"
+        android:text="CAFÉ UP"
+        android:textColor="#FFFFFF"
+        android:textColorLink="#00F5EFEF"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="-2dp"
+        tools:layout_editor_absoluteY="-1dp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="395dp"
+        android:layout_height="47dp"
+        android:gravity="center"
+        android:text="Escolha o café e quantidade"
+        android:textColor="#03A9F4"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="-1dp"
+        tools:layout_editor_absoluteY="99dp" />
+
+    <!-- ************************   BUTTONS   ******************************** -->
+
+    <RadioButton
+        android:id="@+id/btn_cafe"
+        android:layout_width="153dp"
+        android:layout_height="32dp"
+        android:onClick="cafeOnClick"
+        android:text="Café"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="160dp" />
+
+    <RadioButton
+        android:id="@+id/btn_cafeLeite"
+        android:layout_width="153dp"
+        android:layout_height="32dp"
+        android:onClick="cafeLeiteOnClick"
+        android:text="Café com Leite"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="117dp"
+        tools:layout_editor_absoluteY="220dp" />
+
+    <RadioButton
+        android:id="@+id/btn_caputino"
+        android:layout_width="151dp"
+        android:layout_height="34dp"
+        android:onClick="cafeCaputinoOnClick"
+        android:text="Cappuccino"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="200dp"
+        tools:layout_editor_absoluteY="160dp" />
+
+    <!-- ************************    escolhas  ******************************** -->
+
+    <EditText
+        android:id="@+id/quant"
+        android:layout_width="276dp"
+        android:layout_height="62dp"
+        android:ems="10"
+        android:gravity="center"
+        android:inputType="number"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="67dp"
+        tools:layout_editor_absoluteY="263dp" />
+
+    <Button
+        android:id="@+id/btn_precoUni"
+        android:layout_width="120dp"
+        android:layout_height="54dp"
+        android:background="#03A9F4"
+        android:gravity="center"
+        android:text="Preço Unitário"
+        android:textColor="#F9F7FA"
+        android:textSize="18sp"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="372dp" />
+
+    <Button
+        android:id="@+id/btn_precoTotal"
+        android:layout_width="120dp"
+        android:layout_height="57dp"
+        android:background="#03A9F4"
+        android:gravity="center"
+        android:text="Preço Total"
+        android:textColor="#F9F7FA"
+        android:textSize="18sp"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="442dp" />
+
+    <!-- ***************************************************************** -->
+
+    <Button
+        android:id="@+id/btn_pedido"
+        android:layout_width="173dp"
+        android:layout_height="43dp"
+        android:text="Pedido"
+        android:textColor="#03A9F4"
+        android:textSize="18sp"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="97dp"
+        tools:layout_editor_absoluteY="513dp" />
+
+    <LinearLayout
+        android:layout_width="392dp"
+        android:layout_height="44dp"
+        android:orientation="horizontal"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="591dp">
+
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Gostaria de "
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/text_quant"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="<quant>"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="por favor."
+            android:textSize="18sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="394dp"
+        android:layout_height="40dp"
+        android:orientation="horizontal"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="-2dp"
+        tools:layout_editor_absoluteY="644dp">
+
+        <TextView
+            android:id="@+id/textView13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="O valor será de"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/text_total"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="<contaTotal>"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textView15"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text=". Obrigado."
+            android:textSize="18sp" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/preco_uni"
+        android:layout_width="247dp"
+        android:layout_height="59dp"
+        android:text="TextView"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="148dp"
+        tools:layout_editor_absoluteY="367dp" />
+
+    <Button
+        android:id="@+id/fazer_pedido"
+        android:layout_width="310dp"
+        android:layout_height="55dp"
+        android:background="#03A9F4"
+        android:text="FAZER PEDIDO"
+        android:textColor="#FFFFFF"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="41dp"
+        tools:layout_editor_absoluteY="684dp" />
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+
+</android.support.constraint.ConstraintLayout>

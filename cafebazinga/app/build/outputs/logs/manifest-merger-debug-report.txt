@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ifc/Downloads/Cafe_2/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/ifc/Downloads/Cafe_2/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/ifc/Downloads/Cafe_2/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/ifc/Downloads/Cafe_2/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/ca82dd9330b87e3c7f5e6c47c572c94d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/ifc/.gradle/caches/transforms-2/files-2.1/a0c85ec5e37058b7e6bc18625218a323/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/f23dfb4be00487642507f900e512d2d4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/1fa94583a2b107e5929ce42d9c923add/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/960f5ed86587c9dda5fe8b2036469d09/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/731185ca9d3f458d773541f242e021a1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/663a2930b2e5ca09d91b9449855f2d26/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/320ad5143330dc3c1fd52ff014eb937d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/21d28919f017b92403c55f1015e88a2b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/122714f7b27e815cd77564f6a4210d5e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/cfdc5dc845e89bf9be2a54df96b4b79a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/7469ec592ee5fcd4d33c49ca60286a01/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/ccaace6517cba958736920a043290816/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/6c19da43e6930b02cfd0ff2d85758e1b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/1299a0b055879ba5e64f05be844410b5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/7820675d4d85ee472ca22ff28f8bf5b1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/40961c6d1c2c63567138a8619880991a/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/88e14959dd01430c0eaf7cad9b3bdbc8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/ifc/.gradle/caches/transforms-2/files-2.1/0c39065704260f5893bcfdd0a98b554d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/8d327ac9bf91452bb9cd1dd5737ffbc2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/9ff311bc9160842b9588f6c6ad58629d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/d02ff0ac463aa7a09b14060c330904ff/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/ifc/.gradle/caches/transforms-2/files-2.1/ec84f558da7e8babdaffd61fae5ef518/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/ifc/.gradle/caches/transforms-2/files-2.1/318b5c4723c716a5ee82bfc6969c0523/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/ifc/.gradle/caches/transforms-2/files-2.1/7ee9be851a33f78608b981b24fbbe4de/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/ifc/.gradle/caches/transforms-2/files-2.1/2f98398a6844ced09a49545b1c43c1f7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/bfa1c43f346643e627d7d8143677f6bd/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/ifc/Downloads/Cafe_2/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/ifc/Downloads/Cafe_2/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/ifc/Downloads/Cafe_2/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/ifc/Downloads/Cafe_2/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /home/ifc/Downloads/Cafe_2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ifc/Downloads/Cafe_2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/ifc/Downloads/Cafe_2/app/src/main/AndroidManifest.xml
+		ADDED from /home/ifc/Downloads/Cafe_2/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/ifc/Downloads/Cafe_2/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/ifc/Downloads/Cafe_2/app/src/main/AndroidManifest.xml
+		ADDED from /home/ifc/Downloads/Cafe_2/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/ifc/Downloads/Cafe_2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ifc/Downloads/Cafe_2/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/ifc/Downloads/Cafe_2/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/ifc/.gradle/caches/transforms-2/files-2.1/a0c85ec5e37058b7e6bc18625218a323/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/ifc/.gradle/caches/transforms-2/files-2.1/a0c85ec5e37058b7e6bc18625218a323/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/7820675d4d85ee472ca22ff28f8bf5b1/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/7820675d4d85ee472ca22ff28f8bf5b1/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/40961c6d1c2c63567138a8619880991a/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/40961c6d1c2c63567138a8619880991a/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/7820675d4d85ee472ca22ff28f8bf5b1/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/ifc/Downloads/Cafe_2/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/ifc/Downloads/Cafe_2/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/ifc/Downloads/Cafe_2/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/ifc/Downloads/Cafe_2/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/ifc/Downloads/Cafe_2/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/ifc/Downloads/Cafe_2/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.cafe_2.MainActivity
+ADDED from /home/ifc/Downloads/Cafe_2/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/ifc/Downloads/Cafe_2/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/ifc/Downloads/Cafe_2/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/ifc/Downloads/Cafe_2/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/ifc/Downloads/Cafe_2/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/ifc/Downloads/Cafe_2/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/ifc/Downloads/Cafe_2/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/ifc/Downloads/Cafe_2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/ifc/Downloads/Cafe_2/app/src/main/AndroidManifest.xml
+INJECTED from /home/ifc/Downloads/Cafe_2/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/ca82dd9330b87e3c7f5e6c47c572c94d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/ca82dd9330b87e3c7f5e6c47c572c94d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/ifc/.gradle/caches/transforms-2/files-2.1/a0c85ec5e37058b7e6bc18625218a323/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/ifc/.gradle/caches/transforms-2/files-2.1/a0c85ec5e37058b7e6bc18625218a323/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/f23dfb4be00487642507f900e512d2d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/f23dfb4be00487642507f900e512d2d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/1fa94583a2b107e5929ce42d9c923add/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/1fa94583a2b107e5929ce42d9c923add/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/960f5ed86587c9dda5fe8b2036469d09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/960f5ed86587c9dda5fe8b2036469d09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/731185ca9d3f458d773541f242e021a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/731185ca9d3f458d773541f242e021a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/663a2930b2e5ca09d91b9449855f2d26/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/663a2930b2e5ca09d91b9449855f2d26/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/320ad5143330dc3c1fd52ff014eb937d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/320ad5143330dc3c1fd52ff014eb937d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/21d28919f017b92403c55f1015e88a2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/21d28919f017b92403c55f1015e88a2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/122714f7b27e815cd77564f6a4210d5e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/122714f7b27e815cd77564f6a4210d5e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/cfdc5dc845e89bf9be2a54df96b4b79a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/cfdc5dc845e89bf9be2a54df96b4b79a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/7469ec592ee5fcd4d33c49ca60286a01/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/7469ec592ee5fcd4d33c49ca60286a01/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/ccaace6517cba958736920a043290816/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/ccaace6517cba958736920a043290816/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/6c19da43e6930b02cfd0ff2d85758e1b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/6c19da43e6930b02cfd0ff2d85758e1b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/1299a0b055879ba5e64f05be844410b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/1299a0b055879ba5e64f05be844410b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/7820675d4d85ee472ca22ff28f8bf5b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/7820675d4d85ee472ca22ff28f8bf5b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/40961c6d1c2c63567138a8619880991a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/40961c6d1c2c63567138a8619880991a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/88e14959dd01430c0eaf7cad9b3bdbc8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/88e14959dd01430c0eaf7cad9b3bdbc8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/ifc/.gradle/caches/transforms-2/files-2.1/0c39065704260f5893bcfdd0a98b554d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/ifc/.gradle/caches/transforms-2/files-2.1/0c39065704260f5893bcfdd0a98b554d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/8d327ac9bf91452bb9cd1dd5737ffbc2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/8d327ac9bf91452bb9cd1dd5737ffbc2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/9ff311bc9160842b9588f6c6ad58629d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/9ff311bc9160842b9588f6c6ad58629d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/d02ff0ac463aa7a09b14060c330904ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/d02ff0ac463aa7a09b14060c330904ff/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/ifc/.gradle/caches/transforms-2/files-2.1/ec84f558da7e8babdaffd61fae5ef518/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/ifc/.gradle/caches/transforms-2/files-2.1/ec84f558da7e8babdaffd61fae5ef518/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/ifc/.gradle/caches/transforms-2/files-2.1/318b5c4723c716a5ee82bfc6969c0523/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/ifc/.gradle/caches/transforms-2/files-2.1/318b5c4723c716a5ee82bfc6969c0523/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/ifc/.gradle/caches/transforms-2/files-2.1/7ee9be851a33f78608b981b24fbbe4de/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/ifc/.gradle/caches/transforms-2/files-2.1/7ee9be851a33f78608b981b24fbbe4de/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/ifc/.gradle/caches/transforms-2/files-2.1/2f98398a6844ced09a49545b1c43c1f7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/ifc/.gradle/caches/transforms-2/files-2.1/2f98398a6844ced09a49545b1c43c1f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/bfa1c43f346643e627d7d8143677f6bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/ifc/.gradle/caches/transforms-2/files-2.1/bfa1c43f346643e627d7d8143677f6bd/AndroidManifest.xml:20:5-44
+INJECTED from /home/ifc/Downloads/Cafe_2/app/src/main/AndroidManifest.xml
+INJECTED from /home/ifc/Downloads/Cafe_2/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/ifc/Downloads/Cafe_2/app/src/main/AndroidManifest.xml
+		ADDED from /home/ifc/Downloads/Cafe_2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ifc/Downloads/Cafe_2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/ifc/Downloads/Cafe_2/app/src/main/AndroidManifest.xml
+		ADDED from /home/ifc/Downloads/Cafe_2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ifc/Downloads/Cafe_2/app/src/main/AndroidManifest.xml
